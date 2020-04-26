@@ -165,7 +165,7 @@ header nav ul li a:hover,header nav ul li a:focus
     position: relative;
     background: #f7f7f7;
     margin: 50px 0px 0px;
-    padding: 70px 25px 30px;
+    padding: 70px 25px 0px;
     text-align: center;
     height: auto;
     
@@ -242,14 +242,15 @@ transition: 0.3s ease-in;
 {
     background-image: url(..//Images/img3.jpg);
     margin: 50px 0px 0px;
-    padding: 70px 25px 40px;
-    height: 480px;
+    padding: 60px 25px 40px;
+    height: 455px;
     text-align: center;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
     -ms-background-size: 100% auto;
     background-size: 100% auto;
+    margin-top: 68px;
 }
 .media
 {
