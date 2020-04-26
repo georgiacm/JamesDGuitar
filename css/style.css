@@ -245,6 +245,7 @@ transition: 0.3s ease-in;
     padding: 60px 25px 40px;
     height: 455px;
     text-align: center;
+    background-repeat: no-repeat;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
